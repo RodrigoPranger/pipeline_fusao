@@ -1,0 +1,13 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar dependências do Python
+venv/
+
+# Ignorar arquivos de configuração de IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos de build
+*.o
+*.exe
